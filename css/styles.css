@@ -5,7 +5,19 @@ body {
 }
 
 .body-content {
-
   font-family: sans-serif;
+}
 
+.About {
+  font-style: normal;
+  font-family: cursive;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.best {
+  color: maroon;
+  font-size: 12;
+  font-style: normal;
 }
