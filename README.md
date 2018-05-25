@@ -24,7 +24,7 @@ _{Please reach out and contact Annie Shin via email: annieyshin@gmail.com for an
 
 ## Technologies Used
 
-_{This site was created using HTML, CSS, and utilization of bootstrap.}_
+_{This site was created using HTML and CSS.}_
 
 ### License
 
