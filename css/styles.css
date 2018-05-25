@@ -1,5 +1,6 @@
 body {
-
+  margin-left: 20px;
+  padding-left: 10px;
   background-color: #A0F7B4;
   font-family: fantasy;
 }
@@ -11,8 +12,8 @@ body {
 .About {
   font-style: normal;
   font-family: cursive;
-  padding-left: 20px;
-  padding-right: 20px;
+  color: green;
+
 
 }
 
@@ -24,7 +25,7 @@ body {
 
 .Interest {
 
-  color: red;
+  color: violet;
 }
 
 .int-head {
@@ -34,8 +35,23 @@ body {
   float: left;
 }
 
+.skills {
+
+color: violet;}
+
+
+.skill-head {
+
+  color: grey;
+}
+
+.quote-box {
+  text-align: center;
+  padding-top: 20px;
+  margin: 20px;
+}
 
 .quote {
-  margin-top: 30px;
+  margin-top: 10px;
   color: #0C5A30;
 }
