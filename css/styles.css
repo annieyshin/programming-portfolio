@@ -24,7 +24,17 @@ img {
   font-family: sans-serif;
 }
 
-.About {
+.link-box {
+
+width: 450px;
+border: 8px solid green;
+margin: 3px;
+background-color: white;
+padding: 8px;
+
+}
+.about {
+  width: 400px;
   padding: 3px;
   font-style: normal;
   font-family: cursive;
